@@ -20,6 +20,8 @@ maximum possible and(&) between any two numbers provided.
 
 example
 
+Test Case
+
 1
 
 4
@@ -31,6 +33,10 @@ example
 3
 
 4
+
+Output
+
+2
 
 :::
 
@@ -53,5 +59,9 @@ Clearly,
 Hence, the maximum and is between 2 and 3 and it is 2.
 
 :::
+
+Topics:
+
+Binary Trie, Bitwsie Operations
 
 [Link to Problem](https://polygon.codeforces.com/p3oO5TX/mahirj23/and-maximization)
