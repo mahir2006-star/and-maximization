@@ -16,7 +16,10 @@ to 1000000000.
 For each testcase output an integer between 1 to 1000000000 denoting the
 maximum possible and(&) between any two numbers provided.
 
-::: example
+::: 
+
+example
+
 1
 
 4
@@ -28,6 +31,7 @@ maximum possible and(&) between any two numbers provided.
 3
 
 4
+
 :::
 
 In the first example a=\[1,2,3,4\]
@@ -47,4 +51,5 @@ Clearly,
 3 & 4 = 0
 
 Hence, the maximum and is between 2 and 3 and it is 2.
+
 :::
