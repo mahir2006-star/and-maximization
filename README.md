@@ -1,6 +1,5 @@
 # and-maximization
-::: problem
-AND MAXIMIZATIONstandard inputstandard output2 seconds256 megabytes
+AND MAXIMIZATION
 
 Your friend was given an array a of integers. He loves to perform
 bitwise operations, particularly and operation. He chooses any two
@@ -9,7 +8,7 @@ to choose any two numbers so that the bitwise and is maximized. The
 algorithm he writes is unoptimized. You need to write an efficient
 algorithm for him to calculate the maximum bitwise and.
 
-An integer t (1\<=t\<=1000) corresponding to the number of testcases
+An integer t (1\<=t\<=100) corresponding to the number of testcases
 shall be given. For each testcase an integer n(1\<=n\<=2000) denoting
 the number of numbers shall be provided.The numbers shall lie between 1
 to 1000000000.
