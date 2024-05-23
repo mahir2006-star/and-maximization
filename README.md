@@ -18,10 +18,15 @@ maximum possible and(&) between any two numbers provided.
 
 ::: example
 1
+
 4
+
 1
+
 2
+
 3
+
 4
 :::
 
