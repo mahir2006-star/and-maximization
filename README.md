@@ -53,3 +53,5 @@ Clearly,
 Hence, the maximum and is between 2 and 3 and it is 2.
 
 :::
+
+Link to Problem [a link](https://polygon.codeforces.com/p3oO5TX/mahirj23/and-maximization)
